@@ -32,11 +32,11 @@ fetch() {
 }
 
 fetch \
-    "https://github.com/wielandbrendel/adaptive_attacks_paper/releases/download/v0.1/ckpt.t7_ResNet18_advtrain_concat_usvt_0.5_white" \
+    "https://github.com/wielandbrendel/adaptive_attacks_paper/releases/download/0.1/ckpt.t7_ResNet18_advtrain_concat_usvt_0.5_white" \
     "models/ckpt.t7_ResNet18_advtrain_concat_usvt_0.5_white" \
     bfc94db73c1019f6eff523c4f5c2623250997cc6    
 
 fetch \
-    "https://github.com/wielandbrendel/adaptive_attacks_paper/releases/download/v0.1/ckpt.t7_ResNet18_pure_concat_usvt_0.5_white" \
+    "https://github.com/wielandbrendel/adaptive_attacks_paper/releases/download/0.1/ckpt.t7_ResNet18_pure_concat_usvt_0.5_white" \
     "models/ckpt.t7_ResNet18_pure_concat_usvt_0.5_white" \
     6c12aa94b74d1c3fabc90ab042837081f87a5a7e    
