@@ -32,11 +32,11 @@ fetch() {
 }
 
 fetch \
-    "https://github.com/wielandbrendel/adaptive_attacks_paper/releases/download/v0.1/cifar10_conv_vae_fea_F_mid.pkl" \
+    "https://github.com/wielandbrendel/adaptive_attacks_paper/releases/download/0.1/cifar10_conv_vae_fea_F_mid.pkl" \
     "models/cifar10_conv_vae_fea_F_mid.pkl" \
     fa7fcb32746c30e450b047cf6baf3ae647be7d1f 
 
 fetch \
-    "https://github.com/wielandbrendel/adaptive_attacks_paper/releases/download/v0.1/cifar10vgg.h5" \
+    "https://github.com/wielandbrendel/adaptive_attacks_paper/releases/download/0.1/cifar10vgg.h5" \
     "models/cifar10vgg.h5" \
     3d62c7aead897aebddce82516f39646f551df89a     
